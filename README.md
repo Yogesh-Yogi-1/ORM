@@ -6,7 +6,7 @@ To develop a Django application to store and retrieve data from a Railway databa
 
 ## Entity Relationship Diagram
 
-![Screenshot 2024-03-14 225345](https://github.com/Yogesh-Yogi-1/ORM/assets/148514598/9647b9b9-9f90-4cee-9bac-d179b376ec33)
+![Screenshot 2024-03-15 090052](https://github.com/Yogesh-Yogi-1/ORM/assets/148514598/321da8de-0954-46de-8a58-a5f4c12d0387)
 
 
 ## DESIGN STEPS
